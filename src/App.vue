@@ -4,4 +4,4 @@
   </div>
 </template>
 
-<style src="@/css/main.css"></style>
+<style src="gralig"></style>
